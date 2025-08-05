@@ -5,5 +5,7 @@ public class Daa {
         System.out.println("<UNK>");
         System.out.println("<UNK2>");
         System.out.println("<UNK3>");
+        System.out.println("<UNK2>");System.out.println("<UNK2>");
+
     }
 }
